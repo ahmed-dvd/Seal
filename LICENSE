@@ -1,0 +1,5 @@
+This project will use AGPL-3.0 because it depends on libsignal (AGPL).
+
+Full AGPL-3.0 text: https://www.gnu.org/licenses/agpl-3.0.html
+
+Until libsignal is integrated, the skeleton itself can be considered under the same terms for consistency.

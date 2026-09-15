@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="royal_cobalt">#014AAD</color>
+    <color name="glacier_mist">#CBDFEE</color>
+    <color name="soft_yellow">#FBEF9E</color>
+    <color name="black">#000000</color>
+    <color name="steel_blue">#5B88B2</color>
+    <color name="deep_navy">#122C4F</color>
+
+    <color name="primary">#014AAD</color>
+    <color name="on_primary">#FFFFFF</color>
+    <color name="primary_container">#CBDFEE</color>
+    <color name="on_primary_container">#122C4F</color>
+    <color name="secondary">#5B88B2</color>
+    <color name="on_secondary">#FFFFFF</color>
+    <color name="tertiary">#FBEF9E</color>
+    <color name="on_tertiary">#122C4F</color>
+    <color name="background">#F8FBFE</color>
+    <color name="on_background">#122C4F</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="on_surface">#122C4F</color>
+    <color name="surface_variant">#CBDFEE</color>
+    <color name="outline">#5B88B2</color>
+
+    <color name="ic_launcher_background">#014AAD</color>
+    <color name="ic_launcher_foreground">#CBDFEE</color>
+</resources>
