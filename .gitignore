@@ -1,0 +1,36 @@
+# Secrets – never commit
+.env
+*.jks
+*.keystore
+local.properties
+**/secrets/
+**/credentials/
+
+# Build
+**/build/
+**/.gradle/
+**/out/
+**/.idea/
+*.iml
+*.apk
+*.aab
+*.dex
+*.class
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+*~
+
+# Go
+server/bin/
+server/vendor/
+
+# Android
+android/.cxx/
+android/captures/
+android/app/release/
+
+# Keep the wrapper jar
+!android/gradle/wrapper/gradle-wrapper.jar
